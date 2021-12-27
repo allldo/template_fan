@@ -18,3 +18,5 @@ To use this:
 5. make migrations
 
 6. Now you are good to go!
+
+https://themes.shopify.com/themes/colors/styles/generic/preview?surface_detail=carousel&surface_inter_position=1&surface_intra_position=2&surface_type=home
